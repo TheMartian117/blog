@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ani's Blog
 
 You can use the [editor on GitHub](https://github.com/TheMartian117/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
