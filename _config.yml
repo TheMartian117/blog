@@ -1,13 +1,10 @@
 remote_theme: thelehhman/plainwhite-jekyll
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Ani Bharadwaj
+  tagline: Developer
   date_format: "%b %-d, %Y"
 
-plainwhite:
-  navigation:
-    - title: Post 1
-      url: "/post1"
+
 
     
     
