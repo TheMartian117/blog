@@ -3,7 +3,7 @@
 <ul class="posts">
     <li>
       <h1 id="posts-label">posts</h1>
-    </li><li><a class="post-link" href="/teaching/AI">
+    </li><li><a class="post-link" href="/blog/teaching/AI">
           <h2 class="post-title">How To Start With AI</h2>
         </a>
         <div class="post-meta">
