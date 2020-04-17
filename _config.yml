@@ -8,13 +8,7 @@ plainwhite:
   navigation:
     - title: Post 1
       url: "/post1"
-plainwhite:
-  tagline: |
-  First Line. 
 
-  Second Line. 
-
-  Third Line.
     
     
    
