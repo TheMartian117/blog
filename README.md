@@ -3,16 +3,15 @@
 <ul class="posts">
     <li>
       <h1 id="posts-label">posts</h1>
-    </li><li><a class="post-link" href="/web/Getting-Firefox-Source-Slow-Connection/">
-          <h2 class="post-title">Getting Firefox Source Code on a slow connection</h2>
+    </li><li><a class="post-link" href="/teaching/AI">
+          <h2 class="post-title">How To Start With AI</h2>
         </a>
         <div class="post-meta">
-          <ul class="post-categories"><li>web</li></ul>
+          <ul class="post-categories"><li>teaching</li></ul>
           <div class="post-date">
             <i class="icon-calendar"></i>
-            Feb 5, 2020</div>
+            April 16, 2020</div>
         </div>
-        <div class="post"><p>Firefox is hosted on a mercurial <a href="https://hg.mozilla.org/mozilla-central">repository</a>, and is very large in size (~2GB).
-I tried cloning it multiple times using <code class="language-plaintext highlighter-rouge">hg clone</code>, and each I time got either a <code class="language-plaintext highlighter-rouge">stream ended unexpectedly</code> or an <code class="language-plaintext highlighter-rouge">http connection</code> error.</p>
+        <div class="post"><p>Even taking up machine a machine learning project can be difficult. Depending on what you want to learn, dependencies that you want to download may be outdated, and as popular packages get updated (like TensorFlow), it becomes harder to actually create something.</p>
 
 
