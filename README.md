@@ -1,3 +1,5 @@
+
+<link rel = 'icon' href = "https://themartian117.github.io/favico.ico" type = "image/x-icon">
 <ul class="posts">
     <li>
       <h1 id="posts-label">posts</h1>
