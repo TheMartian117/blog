@@ -7,7 +7,7 @@
 <ul class="posts">
     <li>
       <h1 id="posts-label">posts</h1>
-         </li><li><a class="post-link" href="/blog/experiences/hackathons">
+         </li><li><a class="post-link" href="/blog/experience/hackathons">
           <h2 class="post-title">My Hackathon Experiences</h2>
         </a>
         <div class="post-meta">
