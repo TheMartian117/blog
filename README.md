@@ -19,7 +19,7 @@
         <div class = "post"><p>Hackathons are a great way to meet with other people who share similarinterests as you. Basically, you go to a venue, and have 24 hours to create something cool to solve a problem. Hackathons are really fun because it gives you experience creating something, but also allows you to meet new people who you can talk to about programming.</p></div>
         
         
-    </li><li><a class="post-link" href="/blog/teaching/AI">
+   </li><li><a class="post-link" href="/blog/teaching/AI">
           <h2 class="post-title">How To Start With AI</h2>
         </a>
         <div class="post-meta">
