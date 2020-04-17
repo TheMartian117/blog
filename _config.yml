@@ -1,4 +1,20 @@
-theme: jekyll-theme-hacker
-title: Experiences of an Amateur Coder
-description: A blog where I write stuff. 
-logo: https://themartian117.github.io/me.png
+remote_theme: thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+
+plainwhite:
+  navigation:
+    - title: Post 1
+      url: "/post1"
+plainwhite:
+  tagline: |
+  First Line. 
+
+  Second Line. 
+
+  Third Line.
+    
+    
+   
