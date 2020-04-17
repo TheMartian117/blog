@@ -5,7 +5,21 @@
 
 
 <ul class="posts">
-    <li>
+   <li>
+      <h1 id="posts-label">posts</h1>
+         </li><li><a class="post-link" href="/blog/teaching/jekyll">
+          <h2 class="post-title">How To Make A Jekyll Website: Made Easy</h2>
+        </a>
+        <div class="post-meta">
+          <ul class="post-categories"><li>teaching</li></ul>
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            April 17, 2020</div>
+        </div>
+        <div class = "post"><p>I've found that using Jekyll on GitHub with unsupported themes can be pretty intimidating, since some of it isn't very well documented, and they skim through instructions that beginners might need. </p></div>  
+    
+       
+   <li>
       <h1 id="posts-label">posts</h1>
          </li><li><a class="post-link" href="/blog/experience/hackathons">
           <h2 class="post-title">My Hackathon Experiences</h2>
@@ -16,7 +30,7 @@
             <i class="icon-calendar"></i>
             April 17, 2020</div>
         </div>
-        <div class = "post"><p>Hackathons are a great way to meet with other people who share similarinterests as you. Basically, you go to a venue, and have 24 hours to create something cool to solve a problem. Hackathons are really fun because it gives you experience creating something, but also allows you to meet new people who you can talk to about programming.</p></div>
+        <div class = "post"><p>Hackathons are a great way to meet with other people who share similar interests as you. Basically, you go to a venue, and have 24 hours to create something cool to solve a problem. Hackathons are really fun because it gives you experience creating something, but also allows you to meet new people who you can talk to about programming.</p></div>
         
         
    </li><li><a class="post-link" href="/blog/teaching/AI">
@@ -28,7 +42,7 @@
             <i class="icon-calendar"></i>
             January 10, 2020</div>
         </div>
-        <div class="post"><p>Even taking up machine a machine learning project can be difficult. Depending on what you want to learn, dependencies that you want to download may be outdated, and as popular packages get updated (like TensorFlow), it becomes harder to actually create something.</p></div>
+        <div class="post"><p>Even taking up machine a machine learning project can be difficult. Depending on what you want to learn, dependencies that you want to download may be outdated, and as popular packages get updated (like TensorFlow), it becomes harder to actually create something.</p></div> </li>
             
 
 
