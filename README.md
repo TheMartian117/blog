@@ -18,11 +18,9 @@
         </div>
         <div class = "post"><p>I've found that using Jekyll on GitHub with unsupported themes can be pretty intimidating, since some of it isn't very well documented, and they skim through instructions that beginners might need. </p></div>  
     
-       
-   <li>
-      <h1 id="posts-label">posts</h1>
-         </li><li><a class="post-link" href="/blog/experience/hackathons">
-          <h2 class="post-title">My Hackathon Experiences</h2>
+      
+  <li><li><a class="post-link" href="/blog/experience/hackathons">
+     <h2 class="post-title">My Hackathon Experiences</h2>
         </a>
         <div class="post-meta">
           <ul class="post-categories"><li>experiences</li></ul>
