@@ -7,7 +7,9 @@ plainwhite:
   social_links: 
     instagram: __ani._.b__
     github: themartian117
-
+  navigation:
+    -title: Home
+     url: "/blog"
 
     
     
