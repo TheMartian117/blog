@@ -9,7 +9,7 @@ plainwhite:
     github: themartian117
   navigation:
     -title: Home
-     url: "https://themartian117.github.io/blog"
+     url: "/blog/"
 
     
     
