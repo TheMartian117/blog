@@ -1,3 +1,4 @@
+   <link rel = "icon" href = "https://themartian117.github.io/favico.ico" file type = "image/x-icon">
    <section class="content">
        <div class="post-container">
   <a class="post-link" href="/experiences/hackathons/">
