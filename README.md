@@ -5,7 +5,19 @@
   <li>
       <h1 id="posts-label">posts</h1>
          </li>
-    <li><a class="post-link" href="/blog/teaching/jekyll">
+    <li><a class="post-link" href="/blog/teaching/swift">
+          <h2 class="post-title">How To Make iOS Apps Using Swift</h2>
+        </a>
+        <div class="post-meta">
+          <ul class="post-categories"><li>teaching</li></ul>
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            April 19, 2020</div>
+        </div>
+        <div class = "post"><p>If you have a device with MacOS,you can get started with developing apps for iOS. Preferably, oyu would have an iPhone as well so that you can use your app on your own iPhone. Swift is a super simple language that anyone can learn easily, because it's syntax is pretty much basic English. This makes it easy for anyone to start developing!</p></div>
+    
+    
+   <li><a class="post-link" href="/blog/teaching/jekyll">
           <h2 class="post-title">How To Use Quarantine Time Effectively</h2>
         </a>
         <div class="post-meta">
