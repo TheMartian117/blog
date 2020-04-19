@@ -1,13 +1,24 @@
 
 <link rel = 'icon' href = "https://themartian117.github.io/favico.ico" type = "image/x-icon">
 
-
-
-
 <ul class="posts">
-   <li>
+  <li>
       <h1 id="posts-label">posts</h1>
-         </li><li><a class="post-link" href="/blog/teaching/jekyll">
+         </li>
+    <li><a class="post-link" href="/blog/teaching/jekyll">
+          <h2 class="post-title">How To Use Quarantine Time Effectively</h2>
+        </a>
+        <div class="post-meta">
+          <ul class="post-categories"><li>experiences</li></ul>
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            April 18, 2020</div>
+        </div>
+        <div class = "post"><p>Although quarantine can be really boring, you can use the time at home super effectively to grow as a person, and learn new things. Depending on what you want to learn, I would encourage focusing on one specific skill, and work on that mainly, and then learn some other stuff on the side (maybe not as thoroughly). </p></div>
+   
+   
+   
+   </li><li><a class="post-link" href="/blog/teaching/jekyll">
           <h2 class="post-title">How To Make A Jekyll Website: Made Easy</h2>
         </a>
         <div class="post-meta">
